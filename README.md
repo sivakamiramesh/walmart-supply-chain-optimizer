@@ -32,7 +32,7 @@ We will begin with publicly available Walmart/M5 sales data.
 ## Team
 
 - B Sivakami Ramesh
-- Shreya Tejasvi Angeerasa
+- Shreya Tejaswi Angeerasa
 
 ## Status
 
